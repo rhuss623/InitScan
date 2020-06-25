@@ -1,5 +1,5 @@
 # InitScan 
-InitScan performs a TCP SYN scans on all ports followed by parallel-processed directory enumeration and vulnerability scanning to give a kick start to active information gathering.
+InitScan performs a TCP SYN scan on all ports followed by parallel-processed directory enumeration and vulnerability scanning to give a kick start to active information gathering.
 
 ### USAGE:
 
